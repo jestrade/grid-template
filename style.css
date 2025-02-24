@@ -1,9 +1,9 @@
 
 
-header{	grid-area: header;}
-footer{	grid-area: footer;}
-aside{	grid-area: aside;}
-section{	grid-area: section;}
+header { grid-area: header; }
+footer { grid-area: footer; }
+aside { grid-area: aside; }
+section{ grid-area: section; }
 main{
 	background:#8A99E5;
 	display: grid;
